@@ -7,3 +7,6 @@
 # 必要檔案：
 * 有線網路設定：backup-mylinkit-ethernet.tar.gz
 * 無線網路設定：backup-mylinkit-new-wifi.tar.gz
+
+# 讀取SD卡：
+* Read_Rescue資料夾內有軟體與說明
