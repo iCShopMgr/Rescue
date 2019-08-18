@@ -9,4 +9,4 @@
 * 無線網路設定：backup-mylinkit-new-wifi.tar.gz
 
 # 讀取SD卡：
-* Rescue R資料夾內有軟體與說明
+* Rescue Read資料夾內有軟體與說明
